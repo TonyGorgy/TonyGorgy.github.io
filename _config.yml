@@ -20,11 +20,11 @@ bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_veri
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
-  author           : "Muxi Tao"
+author:
   name             : "陶穆熙"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tsinghua University
-  location         : "Shenzhen, China"
+  bio              : "Tsinghua University"
+  location         : #"Shenzhen, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
@@ -45,7 +45,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # "https://orcid.org/0000-0001-9658-209X"
+  orcid            : #"https://orcid.org/0000-0001-9658-209X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
