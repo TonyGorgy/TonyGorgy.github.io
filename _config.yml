@@ -20,7 +20,7 @@ bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_veri
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
-author:
+  author           : "Muxi Tao"
   name             : "陶穆熙"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Tsinghua University
