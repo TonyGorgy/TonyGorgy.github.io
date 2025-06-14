@@ -64,23 +64,31 @@ Haoshen Duan, Hong Cheng. *SCGT: A Three-step Smooth and Consecutive Gait Transi
 <span class='anchor' id='-ryjx'></span>
 
 
-# 🏅 奖学金与荣誉
-## Honors & Scholarships
-- **National Scholarship for Undergraduates**, ¥10,000 · Nov 2024  
-- **Outstanding Student Scholarship (School-level)**, ¥5,000 · Jun 2025  
-- **Innovation Excellence Individual Scholarship**, ¥5,000 · Jun 2025  
-- **Glasgow College Academic Scholarship**, ¥30,000 · Sep 2024  
-- **Liren Elite Scholarship**, ¥5,000 · Feb 2024  
-- **First-Class Excellent Student Scholarship**, ¥4,000 · 2023, 2024  
-- **Excellence in Leadership Scholarship**, ¥12,000 · 2022, 2023, 2024  
-- **Hainan Joint College Talent Scholarship**, ¥30,000 · 2021  
+# 🏅 Honors & Scholarships
+
+## Scholarships
+
+| Year        | Award Name                                 | Amount (RMB) |
+|-------------|---------------------------------------------|--------------|
+| 2024.11     | National Scholarship for Undergraduates     | ¥10,000      |
+| 2025.06     | School-level Outstanding Student Scholarship| ¥5,000       |
+| 2025.06     | Innovation Excellence Individual Scholarship| ¥5,000       |
+| 2024.09     | Academic Scholarship                        | ¥30,000      |
+| 2024.02     | Liren Elite Scholarship                     | ¥5,000       |
+| 2024, 2023  | First-Class Excellent Student Scholarship   | ¥4,000       |
+| 2022–2024   | Excellence in Leadership Scholarship        | ¥12,000      |
+| 2021        | Hainan Joint College Talent Scholarship     | ¥30,000      |
 
 ## Academic & Leadership Honors
-- **Outstanding Graduate of Sichuan Province** · 2025  
-- **Honor Degree from UESTC & First-Class Honours from University of Glasgow** · 2025  
-- **Distinguished Student, Glasgow College (Top 5/550)** · 2025  
-- **Innovation Excellence Individual (Top 10/550)** · 2025  
-- **Liren Elite (Top 5 across the university)** · 2024
+
+| Year     | Honor Title                                                        |
+|----------|---------------------------------------------------------------------|
+| 2025     | Outstanding Graduate of Sichuan Province                           |
+| 2025     | Honor Degree from UESTC & First-Class Honours from Univ. of Glasgow|
+| 2025     | Distinguished Student, Glasgow College (Top 5 out of 550)          |
+| 2025     | Innovation Excellence Individual (Top 10 out of 550)               |
+| 2024     | Liren Elite (Top 5 university-wide)                                |
+
 
 <span class='anchor' id='-xshy'></span>
 
