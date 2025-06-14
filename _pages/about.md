@@ -30,8 +30,8 @@ Hi 🍵！
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2025.09 - 至今*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/Tsinghua_University_Logo.svg" width="20pt"></a> **清华大学** 数据与信息研究院, 人工智能与大数据方向
-- *2021.09 - 2025.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="/images/University_of_Electronic_Science_and_Technology_of_China_Logo.svg" width="20pt"></a> **电子科技大学** 格拉斯哥学院，微电子科学与工程｜ *rk 4/143, GPA 3.9/4.0*
+- *2025.09 - 至今*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/Tsinghua_University_Logo.svg" width="20pt"></a> **清华大学** 数据与信息研究院, 人工智能与大数据方向，学术硕士
+- *2021.09 - 2025.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="/images/University_of_Electronic_Science_and_Technology_of_China_Logo.svg" width="20pt"></a> **电子科技大学** 格拉斯哥学院，微电子科学与工程｜ *rk 4/143, GPA 3.9/4.0, 本科荣誉学位*
 
 
 <span class='anchor' id='-project'></span>
