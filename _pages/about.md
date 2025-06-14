@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi🍵！
+Hi 🍵！
 
 我是一名即将毕业的四年级学生，现就读于电子科技大学格拉斯哥学院，微电子科学工程专业；
 
@@ -30,9 +30,11 @@ Hi🍵！
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2025.09 - 至今*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/Tsinghua_University_Logo.svg" width="20pt"></a> **清华大学** 数据与信息研究院, 人工智能与大数据
-- *2021.09 - 2025.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="/images/University_of_Electronic_Science_and_Technology_of_China_Logo.svg" width="20pt"></a> **电子科技大学** 格拉斯哥学院，微电子科学与工程, rk 4/143, GPA 3.9/4.0
-<span class='anchor' id='-lwzl'></span>
+- *2025.09 - 至今*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/Tsinghua_University_Logo.svg" width="20pt"></a> **清华大学** 数据与信息研究院, 人工智能与大数据方向
+- *2021.09 - 2025.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="/images/University_of_Electronic_Science_and_Technology_of_China_Logo.svg" width="20pt"></a> **电子科技大学** 格拉斯哥学院，微电子科学与工程｜ *rk 4/143, GPA 3.9/4.0*
+
+
+<span class='anchor' id='-project'></span>
 
 # 📝 科研与项目经历
 
@@ -45,64 +47,69 @@ Hi🍵！
 </div>
 </div> -->
 
-- *Currently* Inverse Curriculum: Learning natural running gait and boosting locomotion speed for biped robot through terrain-induced model-based learning process.使用 Inverse Curriculum.
-  - 使用 Inverse Curriculum 使双足机器人从地形引导课程中隐式学习到自然的奔跑步态，实现训练难度与地形适应性的平衡，通过极低的成本大幅增强机器人的运动能力，实现了同一套运动策略下， MIT 双足机器人奔跑至 4.0m/s（平地）, 3.5m/s（崎岖）, 3.0m/s (锯齿).
-  - Robotics and Automation Letters *in progress*.
+**💡 *Humanoid Research*** 
 
-- *2025.02 - 2025.06* 微电子系统设计课程，Teaching Assistance
+- *2024.11 - now*, **Model-based RL**
+  - **Inverse Curriculum: Learning natural running gait and boosting locomotion speed for biped robot through terrain-induced model-based learning process.**
+  - 使用 Inverse Curriculum 使双足机器人从地形引导课程中隐式学习到自然的奔跑步态，实现训练难度与地形适应性的平衡，通过极低的成本大幅增强机器人的运动能力，实现了同一套运动策略下控制MIT 双足机器人奔跑至 4.0m/s（平地）, 3.5m/s（崎岖）, 3.0m/s (锯齿).
+  - Robotics and Automation Letters, *in progress*.
 
-- *2023.12 - 2024.05* Biped robot motion planning.
-  - **Muxi Tao**, Chen Yang, Chaobin Zou, Xinhao Zhang, Rui Huang,Haoshen Duan, Hong Cheng. *SCGT: A Three-step Smooth and Consecutive Gait Transition Approach for Biped Robots*. *ICRAM*. 2024.[[paper]](https://ieeexplore.ieee.org/document/10715877)
+- *2023.12 - 2024.05*, **Biped robot motion planning**
+  - **Muxi Tao**, Chen Yang, Chaobin Zou, Xinhao Zhang, Rui Huang,Haoshen Duan, Hong Cheng. *SCGT: A Three-step Smooth and Consecutive Gait Transition Approach for Biped Robots*. *ICRAM*. 2024. [[paper]](https://ieeexplore.ieee.org/document/10715877)
 
-- *2023.06 - 2023.09* MotorEye：智能摩托车辅助驾驶系统
-  - 项目感知算法的开发（卡尔曼滤波+决策树）,微信小程序开发（UI+HTML+CSS+JS）
-  - 负责项目答辩,进度管理.
-  - 项目同时获选 2023 电子科技大学本科生优质科创项目与全国大学生嵌入式芯片与系统设计竞赛国家级一等奖.
 
-- *2023.06 - 2023.09* 天耀国芯：国产 5G 射频前端模组
+**⚙️ *Project Experience*** 
+- *2025.02 - 2025.06*, **Teaching Assistance**, 微电子系统设计
+- *2023.06 - 2025.06*, **Scientific research intern**, 程洪教授课题组
+- *2023.06 - 2023.09*, **MotorEye：智能摩托车辅助驾驶系统项目开发**
+  - 感知算法开发 ,微信小程序开发
+  - 负责项目答辩与进度管理
+  - 项目同时获选 2023 电子科技大学本科生优质科创项目与全国大学生嵌入式芯片与系统设计竞赛**国家级一等奖**
+
+- *2023.06 - 2023.09*, **天耀国芯：国产 5G 射频前端模组项目开发**
   - MIMO 射频前端模组设计与优化
-  - 负责项目答辩,进度管理.
-  - 项目同时获选 2022 电子科技大学本科生优质科创项目与第八届“互联网+”全国大学生创新创业大赛 **国家级金奖**.
+  - 项目同时获选 2022 电子科技大学本科生优质科创项目与第八届“互联网+”全国大学生创新创业大赛 **国家级金奖**
 
 
-<span class='anchor' id='-ryjx'></span>
 
 
-# 🏅 比赛
+<span class='anchor' id='-comp'></span>
+
+# 🏆 比赛
 - *2023.08* 第六届（2023）全国大学生嵌入式芯片与系统设计竞赛 **国家级一等奖**
 - *2022.11* 第八届“互联网+”全国大学生创新创业大赛 **国家级金奖**
 - *2024.05* 电子科技大学优质本科生科创项目
 - *2023.05* 电子科技大学优质本科生科创项目
 
-<span class='anchor' id='-xshy'></span>
 
 
+
+
+<span class='anchor' id='-scholarship'></span>
 
 # 🏅 Honors & Scholarships
 ## Scholarships
 
 | Year        | Award Name                                 | Amount (RMB) |
 |-------------|---------------------------------------------|--------------|
-| 2024.11     | National Scholarship for Undergraduates     | ¥10,000      |
+| 2024.11     | **National Scholarship for Undergraduates**     | ¥10,000      |
 | 2025.06     | School-level Outstanding Student Scholarship| ¥5,000       |
 | 2025.06     | Innovation Excellence Individual Scholarship| ¥5,000       |
 | 2024.09     | Academic Scholarship                        | ¥30,000      |
 | 2024.02     | Liren Elite Scholarship                     | ¥5,000       |
-| 2024, 2023  | First-Class Excellent Student Scholarship   | ¥4,000       |
+| 2023,2024  | First-Class Excellent Student Scholarship   | ¥4,000       |
 | 2022–2024   | Excellence in Leadership Scholarship        | ¥12,000      |
 | 2021        | Hainan Joint College Talent Scholarship     | ¥30,000      |
 
 ## Academic & Leadership Honors
 
-| Year     | Honor Title                                                        |
-|----------|---------------------------------------------------------------------|
-| 2025     | Outstanding Graduate of Sichuan Province                           |
-| 2025     | Honor Degree from UESTC & First-Class Honours from Univ. of Glasgow|
-| 2025     | Distinguished Student, Glasgow College (Top 5 out of 550)          |
-| 2025     | Innovation Excellence Individual (Top 10 out of 550)               |
-| 2024     | Liren Elite (Top 5 university-wide)                                |
+| Year        | Honor Title                                                        |
+|-------------|---------------------------------------------------------------------|
+| 2025        | Outstanding Graduate of Sichuan Province                           |
+| 2025        | Honor Degree from UESTC & First-Class Honours from Univ. of Glasgow|
+| 2025        | Distinguished Student, Glasgow College (Top 5 out of 550)          |
+| 2025        | Innovation Excellence Individual (Top 10 out of 550)               |
+| 2024        | Liren Elite (Top 5 university-wide)                                |
 
-
-<span class='anchor' id='-xshy'></span>
 
 
