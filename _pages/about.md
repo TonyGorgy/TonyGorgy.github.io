@@ -49,7 +49,7 @@ Hi🍵！
   - 使用 Inverse Curriculum 使双足机器人从地形引导课程中隐式学习到自然的奔跑步态，实现训练难度与地形适应性的平衡，通过极低的成本大幅增强机器人的运动能力，实现了同一套运动策略下， MIT 双足机器人奔跑至 4.0m/s（平地）, 3.5m/s（崎岖）, 3.0m/s (锯齿).
   - Robotics and Automation Letters *in progress*.
 
-- *2025.02 - 2025.06* 微电子系统设计课程，Teach Assistance
+- *2025.02 - 2025.06* 微电子系统设计课程，Teaching Assistance
 
 - *2023.12 - 2024.05* Biped robot motion planning.
   - **Muxi Tao**, Chen Yang, Chaobin Zou, Xinhao Zhang, Rui Huang,Haoshen Duan, Hong Cheng. *SCGT: A Three-step Smooth and Consecutive Gait Transition Approach for Biped Robots*. *ICRAM*. 2024.[[paper]](https://ieeexplore.ieee.org/document/10715877)
