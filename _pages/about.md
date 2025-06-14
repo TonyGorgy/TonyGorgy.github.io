@@ -34,6 +34,39 @@ Hi🍵！
 - *2021.09 - 2025.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="/images/University_of_Electronic_Science_and_Technology_of_China_Logo.svg" width="20pt"></a> **电子科技大学** 格拉斯哥学院，微电子科学与工程, rk 4/143, GPA 3.9/4.0
 <span class='anchor' id='-lwzl'></span>
 
+# 📝 科研与项目经历
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
+[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
+</div>
+</div> -->
+
+- *Currently* Inverse Curriculum: Learning natural running gait and boosting locomotion speed for biped robot through terrain-induced model-based learning process.使用 Inverse Curriculum.
+  - 使用 Inverse Curriculum 使双足机器人从地形引导课程中隐式学习到自然的奔跑步态，实现训练难度与地形适应性的平衡，通过极低的成本大幅增强机器人的运动能力，实现了同一套运动策略下， MIT 双足机器人奔跑至 4.0m/s（平地）, 3.5m/s（崎岖）, 3.0m/s (锯齿).
+  - Robotics and Automation Letters *in progress*.
+
+- *2025.02 - 2025.06* 微电子系统设计课程，Teach Assistance
+
+- *2023.12 - 2024.05* Biped robot motion planning.
+  - **Muxi Tao**, Chen Yang, Chaobin Zou, Xinhao Zhang, Rui Huang,Haoshen Duan, Hong Cheng. *SCGT: A Three-step Smooth and Consecutive Gait Transition Approach for Biped Robots*. *ICRAM*. 2024.[[paper]](https://ieeexplore.ieee.org/document/10715877)
+
+- *2023.06 - 2023.09* MotorEye：智能摩托车辅助驾驶系统
+  - 项目感知算法的开发（卡尔曼滤波+决策树）,微信小程序开发（UI+HTML+CSS+JS）
+  - 负责项目答辩,进度管理.
+  - 项目同时获选 2023 电子科技大学本科生优质科创项目与全国大学生嵌入式芯片与系统设计竞赛国家级一等奖.
+
+- *2023.06 - 2023.09* 天耀国芯：国产 5G 射频前端模组
+  - MIMO 射频前端模组设计与优化
+  - 负责项目答辩,进度管理.
+  - 项目同时获选 2022 电子科技大学本科生优质科创项目与第八届“互联网+”全国大学生创新创业大赛 **国家级金奖**.
+
+
+<span class='anchor' id='-ryjx'></span>
+
 
 # 🏅 比赛
 - *2023.08* 第六届（2023）全国大学生嵌入式芯片与系统设计竞赛 **国家级一等奖**
@@ -44,28 +77,8 @@ Hi🍵！
 <span class='anchor' id='-xshy'></span>
 
 
-# 📝 论文
-
----
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
-
-</div>
-</div> -->
-
-
-- **Muxi Tao**, Chen Yang, Chaobin Zou, Xinhao Zhang, Rui Huang,
-Haoshen Duan, Hong Cheng. *SCGT: A Three-step Smooth and Consecutive Gait Transition Approach for Biped Robots*. *ICRAM*. 2024
-[[paper]](https://ieeexplore.ieee.org/document/10715877)
-
-<span class='anchor' id='-ryjx'></span>
-
 
 # 🏅 Honors & Scholarships
-
 ## Scholarships
 
 | Year        | Award Name                                 | Amount (RMB) |
