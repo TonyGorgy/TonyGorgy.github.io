@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+Hi🍵！
+我是一名即将毕业的四年级学生，现就读于电子科技大学格拉斯哥学院，微电子科学工程专业，我即将前往清华大学数据科学与信息研究院（深圳）开展研究生工作。
 
 我最近研究的领域：
 - Model-Based Reinforcement Learning
@@ -29,8 +29,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/Tsinghua_University_Logo.svg" width="20pt"></a> 清华大学 数据与信息研究院, 广东深圳, 推免学硕 
-- *2012.09 - 2016.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="/images/University_of_Electronic_Science_and_Technology_of_China_Logo.svg" width="20pt"></a> 电子科技的大学 格拉斯哥学院，四川成都
+- *2016.06 - 2022.12*, <a href="https://www.tsinghua.edu.cn/"><img class="svg" src="/images/Tsinghua_University_Logo.svg" width="20pt"></a> 清华大学 数据与信息研究院, 人工智能与大数据
+- *2012.09 - 2016.06*, <a href="https://www.uestc.edu.cn/"><img class="svg" src="/images/University_of_Electronic_Science_and_Technology_of_China_Logo.svg" width="20pt"></a> 电子科技的大学 格拉斯哥学院，微电子科学与工程
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
